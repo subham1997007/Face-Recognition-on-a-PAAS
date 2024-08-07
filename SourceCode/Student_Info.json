@@ -1,0 +1,37 @@
+{
+    "Student_Info":[
+        {
+            "PutRequest":{
+                "Item":{
+                    "Id":{"N":"1"},
+                    "Name":{"S":"dhruval"},
+                    "Major":{"S":"computer_science"},
+                    "Year":{"S":"graduate"}
+                }
+            }
+        },
+
+        {
+                "PutRequest":{
+                    "Item":{
+                        "Id":{"N":"2"},
+                        "Name":{"S":"kenil"},
+                        "Major":{"S":"computer_science"},
+                        "Year":{"S":"graduate"}
+                    }
+                }
+        },
+        {
+            "PutRequest":{
+                "Item":{
+                    "Id":{"N":"3"},
+                    "Name":{"S":"Subham"},
+                    "Major":{"S":"computer_science"},
+                    "Year":{"S":"graduate"}
+                }
+            }
+        }
+        
+
+    ]
+}
